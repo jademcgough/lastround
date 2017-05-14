@@ -20,6 +20,7 @@ gem 'uglifier', '>= 1.3.0'
 # gem 'therubyracer', platforms: :ruby
 gem 'babel-transpiler'
 gem 'sprockets', git: 'https://github.com/rails/sprockets.git', tag: 'v4.0.0.beta4'
+gem 'webpacker'
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.5'
